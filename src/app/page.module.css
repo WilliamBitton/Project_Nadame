@@ -1,0 +1,48 @@
+.directionButton {
+  background-color: #d590bd;
+  color: #315133;
+  width: 30%;
+  margin-top: 15px;
+  height: 37px;
+}
+
+.envoyerButton {
+  background-color: #d590bd;
+  color: #315133;
+  margin-top: 05px;
+  width: 30%;
+}
+
+.directionButton:hover,
+.envoyerButton:hover {
+  background-color: #315133;
+  color: #fff;
+}
+
+.socialIcon {
+  font-size: 50px !important;
+  color: #d590bd;
+  transition: color 0.3s;
+}
+
+.socialIcon:hover {
+  color: #315133;
+}
+.button-container {
+  background-color: #d590bd;
+  color: #315133; 
+}
+
+.buttoncontainer:hover {
+  background-color: #315133;
+  color: #ffffff; 
+}
+.buttoncontainer {
+  background-color: #d590bd;
+  color: #315133; 
+}
+
+.buttoncontainer:hover {
+  background-color: #315133;
+  color: #ffffff;
+}
